@@ -1,3 +1,4 @@
+## Walkthrough
 ![App Instructions](https://raw.githubusercontent.com/or-daniel/jamming/assets/jamming-instructions.jpg)
 
 ## Features
