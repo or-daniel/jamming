@@ -1,4 +1,4 @@
-![App Instructions](https://github.com/github/or-daniel/jamming/blob/assets/jamming-instructions.jpg)
+![App Instructions](https://raw.githubusercontent.com/or-daniel/jamming/assets/jamming-instructions.jpg)
 
 ## Features
 
